@@ -1,0 +1,5 @@
+export {default as Navbar} from "./Navbar"
+export {default as Footer} from "./Footer"
+export {default as Contact} from "./Contact"
+export {default as Clienttestimonials} from "./Clienttestimonials"
+export {default as Gheeprocess} from "./Gheeprocess"
